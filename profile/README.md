@@ -10,8 +10,8 @@ Our R&D focuses on the following areas:
 
 ## Projects We Encourage You to Try
 
-- [Bridge](https://github.com/StarfleetAI/bridge) - a fully-featured IDE for building and running autonomous AI agents.
-- [Polaris](https://github.com/StarfleetAI/polaris) - a family of open source models designed for autonomous AI agent scenarios.
+- [**Polaris**](https://github.com/StarfleetAI/polaris) — a family of open source models designed for autonomous AI agent scenarios.
+- **Soon**: [Bridge](https://github.com/StarfleetAI/bridge) — a fully-featured IDE for building and running autonomous AI agents.
 
 Stay tuned for more projects coming this year!
 
