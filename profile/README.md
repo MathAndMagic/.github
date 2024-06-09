@@ -1,4 +1,4 @@
-# StarfleetAI 💫
+# Math & Magic 💫
 
 We are on a mission to find new ways for humanity to benefit from AI.
 
@@ -10,8 +10,8 @@ Our R&D focuses on the following areas:
 
 ## Projects We Encourage You to Try
 
-- [**Polaris**](https://github.com/StarfleetAI/polaris) — a family of open source models designed for autonomous AI agent scenarios.
-- **Soon**: [Bridge](https://github.com/StarfleetAI/bridge) — a fully-featured IDE for building and running autonomous AI agents.
+- [**Polaris**](https://github.com/MathAndMagic/polaris) — a family of open source models designed for autonomous AI agent scenarios.
+- **Soon**: [Bridge](https://github.com/MathAndMagic/bridge) — a fully-featured IDE for building and running autonomous AI agents.
 
 Stay tuned for more projects coming this year!
 
@@ -27,7 +27,7 @@ We're always looking for talented ML/AI researchers and developers of all sorts 
   - Rust / Go developers - to work on backend services for our new projects
   - Vue.js developers - to work on UI for Bridge and other applications / services
 
-  If you're find any of these attractive, please write us at jobs@starfleetai.com.
+  If you're find any of these attractive, please write us at jobs@mathandmagic.ai.
 
   <details>
     <summary>A few things to know upfront:</summary>
@@ -40,4 +40,4 @@ We're always looking for talented ML/AI researchers and developers of all sorts 
 
 ---
 
-[StarfleetAI on X](https://twitter.com/StarfleetAI)
+[Math & Magic on X](https://twitter.com/MathAndMagicAI)
