@@ -11,7 +11,6 @@ Our R&D focuses on the following areas:
 ## Projects We Encourage You to Try
 
 - [**Bridge**](https://brid93.com) — an agent-native, all-in-one digital workspace for collaborating with AI on real-world tasks.
-- [**Polaris**](https://github.com/MathAndMagic/polaris) — a family of open source models designed for autonomous AI agent scenarios.
 
 Stay tuned for more projects coming this year!
 
@@ -22,7 +21,6 @@ We're always looking for talented developers and rising AI researchers to join o
 <details>
   <summary>Currently, we are particularly interested in:</summary>
 
-  - LLM researchers + ML engineers - to work on Polaris
   - Rust developers - to work on Bridge
   - JS developers - to work on UI for Bridge and other applications / services
 
@@ -39,4 +37,5 @@ We're always looking for talented developers and rising AI researchers to join o
 
 ---
 
+[Math & Magic on LinkedIn](https://www.linkedin.com/company/bridgeappai)  
 [Math & Magic on X](https://twitter.com/MathAndMagicAI)
